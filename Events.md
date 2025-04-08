@@ -1,4 +1,4 @@
-### UPCOMING EVENTS##
+### UPCOMING EVENTS
 
 [Data Operations IL: Data Quality in the Wild – Real-World Challenges & Solutions](https://lu.ma/8d73d45e) 21/4/25, 19:30, Google Meet
 
@@ -6,3 +6,4 @@
 
 [Taxonomies in the Age of AI: Showcasing The Data Operations Open Source Taxonomy](https://www.meetup.com/pyweb-il/events/306956202/) 4/5/25, 20:30, Zoom
 
+[Data Operations IL: From Raw Data to Healthcare Insights](https://lu.ma/8jrllnbp) 20/5/25, 17:30, Navina Office, Acro One Tower, Aba Hillel 21, Ramat Gan
