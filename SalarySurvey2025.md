@@ -56,15 +56,15 @@
     
 ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2025/salary_by_technical_skills.png)
     
-    *Definition of technical skills:
+*Definition of technical skills:
     
-    Non-Technical: I rely on others for technical tasks and only use pre-built tools
+Non-Technical: I rely on others for technical tasks and only use pre-built tools
     
-    Somewhat Technical: I can use basic data tools such as Excel and querying engines (such as SQL)
+Somewhat Technical: I can use basic data tools such as Excel and querying engines (such as SQL)
     
-    Moderately Technical: I can do some coding and data manipulation tasks independently
+Moderately Technical: I can do some coding and data manipulation tasks independently
     
-    Very Technical: I'm proficient in coding and can do automation/data engineering tasks
+Very Technical: I'm proficient in coding and can do automation/data engineering tasks
     
 ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2025/salary_by_workplace_and_experience.png)
     
@@ -73,84 +73,90 @@
 - People Managers
     
     
-    | Type of Workplace | Experience | Team Size (#people managed) | Range | Median | Comment |
-    | --- | --- | --- | --- | --- | --- |
-    | Small Startup (up to 40 Employees) | 0-2 Years | 6 - 12 | 11,000 - 11,000 | 11,000 | < 3 people |
-    |  | 3-5 Years | < 6 | 20,000 - 35,000 | 26,000 |  |
-    |  | 6-9 Years | < 6 | 14,000 - 24,000 | 20,000 |  |
-    |  | 10+ Years | < 6 | 30,000 - 30,000 | 30,000 | < 3 people |
-    | Medium Startup (41-200 Employees) | 0-2 Years | < 6 | 15,000 - 16,000 | 15,500 | < 3 people |
-    |  | 3-5 Years | < 6 | 18,000 - 30,000 | 24,000 | < 3 people |
-    |  | 10+ Years | > 12 | 33,000 - 33,000 | 33,000 | < 3 people |
-    | Big Startup (More than 200 Employees) | 3-5 Years | < 6 | 18,000 - 18,000 | 18,000 | < 3 people |
-    | Enterprise/Corporate | 0-2 Years | < 6 | 19,000 - 19,000 | 19,000 | < 3 people |
-    |  | 3-5 Years | < 6 | 11,000 - 30,000 | 20,500 | < 3 people |
-    |  |  | 6 - 12 | 25,000 - 25,000 | 25,000 | < 3 people |
-    | Other | 6-9 Years | < 6 | 33,500 - 33,500 | 33,500 | < 3 people |
+| Type of Workplace                     | Team Size               | Range           | Median   | Comment    |
+|:--------------------------------------|:------------------------|:----------------|:---------|:-----------|
+| Big Startup (More than 200 Employees) | Between 6 and 12 people | 20,000 - 28,000 | 24,000   | < 3 people |
+| Big Startup (More than 200 Employees) | Up to 5 people          | 17,000 - 22,000 | 21,250   |            |
+| Enterprise/Corporate                  | Over 12 people          | 19,000 - 19,000 | 19,000   | < 3 people |
+| Enterprise/Corporate                  | Up to 5 people          | 12,100 - 30,000 | 21,050   | < 3 people |
+| Government                            | Between 6 and 12 people | 30,500 - 30,500 | 30,500   | < 3 people |
+| Medium Startup (41-200 Employees)     | Between 6 and 12 people | 24,500 - 31,000 | 27,750   | < 3 people |
+| Medium Startup (41-200 Employees)     | Up to 5 people          | 20,000 - 26,000 | 22,500   |            |
+| Small Startup (up to 40 Employees)    | Over 12 people          | 37,000 - 41,000 | 39,000   | < 3 people |
+| Small Startup (up to 40 Employees)    | Up to 5 people          | 23,000 - 23,000 | 23,000   | < 3 people |
+
+
+| Team Size               | Experience   | Range           | Median   | Comment    |
+|:------------------------|:-------------|:----------------|:---------|:-----------|
+| Between 6 and 12 people | 10+ Years    | 30,500 - 31,000 | 30,750   | < 3 people |
+| Between 6 and 12 people | 3-5 Years    | 20,000 - 28,000 | 24,500   |            |
+| Over 12 people          | 0-2 Years    | 19,000 - 19,000 | 19,000   | < 3 people |
+| Over 12 people          | 3-5 Years    | 41,000 - 41,000 | 41,000   | < 3 people |
+| Over 12 people          | 6-9 Years    | 37,000 - 37,000 | 37,000   | < 3 people |
+| Up to 5 people          | 0-2 Years    | 17,000 - 17,000 | 17,000   | < 3 people |
+| Up to 5 people          | 3-5 Years    | 12,100 - 21,500 | 20,500   |            |
+| Up to 5 people          | 6-9 Years    | 20,000 - 30,000 | 24,000   |            |
+
     
-    | Type of Workplace | Hands-on (% of hands-on work) | Range | Median | Comment |
-    | --- | --- | --- | --- | --- |
-    | Small Startup (up to 40 Employees) | < 20% | 20,000 - 30,000 | 26,000 |  |
-    |  | ~ 50% | 11,000 - 24,000 | 17,500 | < 3 people |
-    |  | Most/all | 14,000 - 35,000 | 20,000 |  |
-    | Medium Startup (41-200 Employees) | < 20% | 18,000 - 18,000 | 18,000 | < 3 people |
-    |  | ~ 50% | 15,000 - 33,000 | 16,000 |  |
-    |  | Most/all | 30,000 - 30,000 | 30,000 | < 3 people |
-    | Big Startup (More than 200 Employees) | ~ 50% | 18,000 - 18,000 | 18,000 | < 3 people |
-    |  | Most/all | 18,000 - 18,000 | 18,000 | < 3 people |
-    | Enterprise/Corporate | < 20% | 25,000 - 30,000 | 27,500 | < 3 people |
-    |  | ~ 50% | 11,000 - 11,000 | 11,000 | < 3 people |
-    |  | Most/all | 19,000 - 19,000 | 19,000 | < 3 people |
-    | Other | < 20% | 33,500 - 33,500 | 33,500 | < 3 people |
+| Type of Workplace                     | Hands-on                             | Range           | Median   | Comment    |
+|:--------------------------------------|:-------------------------------------|:----------------|:---------|:-----------|
+| Big Startup (More than 200 Employees) | Half or more of my work is hands on  | 17,000 - 22,000 | 21,000   |            |
+| Big Startup (More than 200 Employees) | Less than 20% of my work is hands on | 20,000 - 28,000 | 21,500   |            |
+| Enterprise/Corporate                  | Half or more of my work is hands on  | 30,000 - 30,000 | 30,000   | < 3 people |
+| Enterprise/Corporate                  | Less than 20% of my work is hands on | 12,100 - 19,000 | 15,550   | < 3 people |
+| Government                            | Half or more of my work is hands on  | 30,500 - 30,500 | 30,500   | < 3 people |
+| Medium Startup (41-200 Employees)     | Half or more of my work is hands on  | 20,000 - 26,000 | 24,750   |            |
+| Medium Startup (41-200 Employees)     | Less than 20% of my work is hands on | 20,000 - 31,000 | 25,500   | < 3 people |
+| Small Startup (up to 40 Employees)    | Half or more of my work is hands on  | 23,000 - 23,000 | 23,000   | < 3 people |
+| Small Startup (up to 40 Employees)    | Less than 20% of my work is hands on | 37,000 - 41,000 | 39,000   | < 3 people |
     
 - Non Managers
     
     The data in this section refers to people who work in data operations in roles that do not include managing people directly - they could still be managing the operation or the quality, but they have no people reporting to them.
     
-    | Type of Workplace | Experience | Range | Median | Comment |
-    | --- | --- | --- | --- | --- |
-    | Small Startup (up to 40 Employees) | 0-2 Years | 7,500 - 16,500 | 11,618 |  |
-    | Medium Startup (41-200 Employees) | 3-5 Years | 13,000 - 25,000 | 15,000 |  |
-    |  | 6-9 Years | 25,000 - 25,000 | 25,000 | < 3 people |
-    |  | 10+ Years | 14,000 - 14,000 | 14,000 | < 3 people |
-    | Big Startup (More than 200 Employees) | 3-5 Years | 20,000 - 20,000 | 20,000 | < 3 people |
-    | Enterprise/Corporate | 0-2 Years | 16,000 - 19,000 | 17,500 | < 3 people |
-    |  | 3-5 Years | 20,000 - 25,500 | 22,750 | < 3 people |
-    |  | 6-9 Years | 24,000 - 28,000 | 26,000 | < 3 people |
-    |  | 10+ Years | 18,900 - 20,000 | 19,450 | < 3 people |
+| Experience   | Technical Skills     | Range           | Median   | Comment    |
+|:-------------|:---------------------|:----------------|:---------|:-----------|
+| 0-2 Years    | Moderately Technical | 12,500 - 24,000 | 15,000   |            |
+| 0-2 Years    | Somewhat Technical   | 10,500 - 13,000 | 11,750   | < 3 people |
+| 0-2 Years    | Very Technical       | 22,000 - 22,000 | 22,000   | < 3 people |
+| 3-5 Years    | Non-Technical        | 19,000 - 19,000 | 19,000   | < 3 people |
+| 3-5 Years    | Somewhat Technical   | 19,000 - 20,700 | 19,750   |            |
+| 3-5 Years    | Very Technical       | 23,500 - 24,000 | 23,750   | < 3 people |
+| 6-9 Years    | Moderately Technical | 20,000 - 27,000 | 24,000   |            |
+| 6-9 Years    | Somewhat Technical   | 15,000 - 15,000 | 15,000   | < 3 people |
+
+
+| Experience   | Hands-on                             | Range           | Median   | Comment    |
+|:-------------|:-------------------------------------|:----------------|:---------|:-----------|
+| 0-2 Years    | Most/all of my work is hands on      | 10,500 - 15,000 | 12,750   |            |
+| 0-2 Years    | ~50% of my work is hands on          | 22,000 - 24,000 | 23,000   | < 3 people |
+| 3-5 Years    | Less than 20% of my work is hands on | 24,000 - 24,000 | 24,000   | < 3 people |
+| 3-5 Years    | Most/all of my work is hands on      | 19,500 - 19,500 | 19,500   | < 3 people |
+| 3-5 Years    | ~50% of my work is hands on          | 19,000 - 23,500 | 20,000   |            |
+| 6-9 Years    | Less than 20% of my work is hands on | 15,000 - 15,000 | 15,000   | < 3 people |
+| 6-9 Years    | Most/all of my work is hands on      | 24,000 - 27,000 | 25,500   | < 3 people |
+| 6-9 Years    | ~50% of my work is hands on          | 20,000 - 20,000 | 20,000   | < 3 people |
+
+
+| Type of Workplace                     | Range           | Median   | Comment    |
+|:--------------------------------------|:----------------|:---------|:-----------|
+| Big Startup (More than 200 Employees) | 24,000 - 27,000 | 25,500   | < 3 people |
+| Enterprise/Corporate                  | 10,500 - 24,000 | 19,500   |            |
+| Medium Startup (41-200 Employees)     | 20,000 - 24,000 | 23,500   |            |
+| Small Startup (up to 40 Employees)    | 12,500 - 22,000 | 17,000   |            |
+
+
+
+*Definition of technical skills:
     
-    | Experience | Hands-on (% of hands-on work) | Range | Median | Comment |
-    | --- | --- | --- | --- | --- |
-    | 0-2 Years | ~ 50% | 10,000 - 19,000 | 16,000 |  |
-    |  | Most/all | 7,500 - 12,000 | 9,750 | < 3 people |
-    | 3-5 Years | < 20% | 25,000 - 25,000 | 25,000 | < 3 people |
-    |  | Most/all | 13,000 - 15,000 | 14,000 | < 3 people |
-    | 6-9 Years | Most/all | 24,000 - 28,000 | 25,000 |  |
-    | 10+ Years | ~ 50% | 18,900 - 18,900 | 18,900 | < 3 people |
-    |  | Most/all | 14,000 - 20,000 | 17,000 | < 3 people |
+Non-Technical: I rely on others for technical tasks and only use pre-built tools
     
-    | Experience | Technical Skills* | Range | Median | Comment |
-    | --- | --- | --- | --- | --- |
-    | 0-2 Years | Non-Technical | 10,000 - 10,000 | 10,000 | < 3 people |
-    |  | Somewhat Technical | 12,000 - 16,500 | 14,618 |  |
-    |  | Moderately Technical | 7,500 - 19,000 | 13,250 | < 3 people |
-    | 3-5 Years | Somewhat Technical | 15,000 - 20,000 | 17,500 | < 3 people |
-    |  | Moderately Technical | 20,000 - 25,500 | 22,500 |  |
-    |  | Very Technical | 13,000 - 13,000 | 13,000 | < 3 people |
-    | 6-9 Years | Somewhat Technical | 25,000 - 25,000 | 25,000 | < 3 people |
-    |  | Moderately Technical | 28,000 - 28,000 | 28,000 | < 3 people |
-    |  | Very Technical | 24,000 - 24,000 | 24,000 | < 3 people |
-    | 10+ Years | Somewhat Technical | 14,000 - 20,000 | 18,900 |  |
+Somewhat Technical: I can use basic data tools such as Excel and querying engines (such as SQL)
     
-    *Definition of technical skills:
+Moderately Technical: I can do some coding and data manipulation tasks independently
     
-    Non-Technical: I rely on others for technical tasks and only use pre-built tools
-    
-    Somewhat Technical: I can use basic data tools such as Excel and querying engines (such as SQL)
-    
-    Moderately Technical: I can do some coding and data manipulation tasks independently
-    
-    Very Technical: I'm proficient in coding and can do automation/data engineering tasks
+Very Technical: I'm proficient in coding and can do automation/data engineering tasks
+
     
 - Specialized Knowledge
     
@@ -158,38 +164,20 @@
     
     ## **Salaries Overall**
     
-    | Type of Workplace | Experience | Range | Median | Comment |
-    | --- | --- | --- | --- | --- |
-    | Small Startup (up to 40 Employees) | 3-5 Years | 20,000 - 23,000 | 21,500 | < 3 people |
-    |  | 6-9 Years | 29,000 - 29,000 | 29,000 | < 3 people |
-    |  | 10+ Years | 23,500 - 23,500 | 23,500 | < 3 people |
-    | Medium Startup (41-200 Employees) | 0-2 Years | 18,000 - 28,000 | 23,000 | < 3 people |
-    |  | 3-5 Years | 18,500 - 21,000 | 21,000 |  |
-    |  | 10+ Years | 36,500 - 36,500 | 36,500 | < 3 people |
-    | Enterprise/Corporate | 3-5 Years | 17,500 - 17,500 | 17,500 | < 3 people |
-    |  | 6-9 Years | 17,000 - 30,000 | 23,500 | < 3 people |
+| Experience   | Range           | Median   | Comment    |
+|:-------------|:----------------|:---------|:-----------|
+| 0-2 Years    | 15,000 - 25,000 | 17,500   |            |
+| 10+ Years    | 45,000 - 45,000 | 45,000   | < 3 people |
+| 3-5 Years    | 11,000 - 40,000 | 20,500   |            |
+
+| Type of Workplace                     | Range           | Median   | Comment    |
+|:--------------------------------------|:----------------|:---------|:-----------|
+| Big Startup (More than 200 Employees) | 11,000 - 25,000 | 18,000   | < 3 people |
+| Enterprise/Corporate                  | 45,000 - 45,000 | 45,000   | < 3 people |
+| Medium Startup (41-200 Employees)     | 17,500 - 40,000 | 30,000   |            |
+| Small Startup (up to 40 Employees)    | 11,000 - 15,000 | 13,000   | < 3 people |
     
-    ## People Managers
-    
-    | Type of Workplace | Experience | Team Size (#people managed) | Range | Median | Comment |
-    | --- | --- | --- | --- | --- | --- |
-    | Small Startup (up to 40 Employees) | 3-5 Years | < 6 | 23,000 - 23,000 | 23,000 | < 3 people |
-    |  | 6-9 Years | 6 - 12 | 29,000 - 29,000 | 29,000 | < 3 people |
-    |  | 10+ Years | < 6 | 23,500 - 23,500 | 23,500 | < 3 people |
-    | Medium Startup (41-200 Employees) | 0-2 Years | 6 - 12 | 28,000 - 28,000 | 28,000 | < 3 people |
-    |  | 3-5 Years | 6 - 12 | 21,000 - 21,000 | 21,000 | < 3 people |
-    |  |  | < 6 | 18,500 - 21,000 | 19,750 | < 3 people |
-    |  | 10+ Years | < 6 | 36,500 - 36,500 | 36,500 | < 3 people |
-    | Enterprise/Corporate | 6-9 Years | > 12 | 17,000 - 17,000 | 17,000 | < 3 people |
-    |  | 6-9 Years | < 6 | 30,000 - 30,000 | 30,000 | < 3 people |
-    
-    | Type of Workplace | Hands-on (% of hands-on work) | Range | Median | Comment |
-    | --- | --- | --- | --- | --- |
-    | Small Startup (up to 40 Employees) | ~ 50% | 23,000 - 29,000 | 23,500 |  |
-    |  | < 20% | 21,000 - 28,000 | 24,500 | < 3 people |
-    |  | ~ 50% | 18,500 - 36,500 | 27,500 | < 3 people |
-    |  | Most/all | 21,000 - 21,000 | 21,000 | < 3 people |
-    | Enterprise/Corporate | ~ 50% | 17,000 - 30,000 | 23,500 | < 3 people |
+
     
     **Note:** This section does not have a table for non-managers with specialized knowledge because an overwhelming majority of people in this survey with specialized knowledge are people managers.
     
