@@ -48,13 +48,13 @@
 | 13 | Small Startup (up to 40 Employees)    | 3-5 Years    | 11,000 - 41,000 | 19,250   |                                  |
 | 14 | Small Startup (up to 40 Employees)    | 6-9 Years    | 15,000 - 37,000 | 23,000   |                                  |
     
-    ## A Few Interesting Bar Graphs
+## A Few Interesting Bar Graphs
     
-    ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/image%20(1).png)
+![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2025/salary_by_experience.png)
     
-    ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/image%20(2).png)
+![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2025/salary_by_workplace.png)
     
-    ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/image%20(3).png)
+![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2025/salary_by_technical_skills.png)
     
     *Definition of technical skills:
     
@@ -66,9 +66,9 @@
     
     Very Technical: I'm proficient in coding and can do automation/data engineering tasks
     
-    ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/image%20(4).png)
+![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2025/salary_by_workplace_and_experience.png)
     
-    ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/image%20(5).png)
+![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2025/salary_by_workplace_and_technical_skills.png)
     
 - People Managers
     
