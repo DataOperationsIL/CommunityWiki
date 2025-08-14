@@ -255,5 +255,5 @@ Explanation missing
 | Tactical+Strategic | Most/all of my work is hands on      | 13,000 - 15,000 | 14,000   | < 3 people |
 | Tactical+Strategic | ~50% of my work is hands on          | 17,000 - 45,000 | 24,250   |            |
     
-    **Note:** This section does not have a table for non-managers with specialized knowledge because an overwhelming majority of people in this survey with specialized knowledge are people managers.
+  
     
