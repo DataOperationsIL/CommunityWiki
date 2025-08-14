@@ -29,7 +29,24 @@
     ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2025/salary_histogram.png)
   
     
-|    | Type of Workplace                     | Experience   | Range           | Median   | Comment                          |\n|---:|:--------------------------------------|:-------------|:----------------|:---------|:---------------------------------|\n|  0 | Big Startup (More than 200 Employees) | 0-2 Years    | 17,000 - 25,000 | 21,000   | Less than 3 people in this group |\n|  1 | Big Startup (More than 200 Employees) | 3-5 Years    | 11,000 - 28,000 | 21,250   |                                  |\n|  2 | Big Startup (More than 200 Employees) | 6-9 Years    | 22,000 - 27,000 | 24,500   | Less than 3 people in this group |\n|  3 | Enterprise/Corporate                  | 0-2 Years    | 10,500 - 19,000 | 15,000   |                                  |\n|  4 | Enterprise/Corporate                  | 10+ Years    | 45,000 - 45,000 | 45,000   | Less than 3 people in this group |\n|  5 | Enterprise/Corporate                  | 3-5 Years    | 12,100 - 20,700 | 19,500   |                                  |\n|  6 | Enterprise/Corporate                  | 6-9 Years    | 24,000 - 30,000 | 27,000   | Less than 3 people in this group |\n|  7 | Government                            | 10+ Years    | 30,500 - 30,500 | 30,500   | Less than 3 people in this group |\n|  8 | Medium Startup (41-200 Employees)     | 0-2 Years    | 17,500 - 24,000 | 20,750   | Less than 3 people in this group |\n|  9 | Medium Startup (41-200 Employees)     | 10+ Years    | 31,000 - 31,000 | 31,000   | Less than 3 people in this group |\n| 10 | Medium Startup (41-200 Employees)     | 3-5 Years    | 20,000 - 40,000 | 24,500   |                                  |\n| 11 | Medium Startup (41-200 Employees)     | 6-9 Years    | 20,000 - 26,000 | 22,500   |                                  |\n| 12 | Small Startup (up to 40 Employees)    | 0-2 Years    | 12,500 - 22,000 | 14,000   |                                  |\n| 13 | Small Startup (up to 40 Employees)    | 3-5 Years    | 11,000 - 41,000 | 19,250   |                                  |\n| 14 | Small Startup (up to 40 Employees)    | 6-9 Years    | 15,000 - 37,000 | 23,000   |                                  |
+
+|    | Type of Workplace                     | Experience   | Range           | Median   | Comment                          |
+|---:|:--------------------------------------|:-------------|:----------------|:---------|:---------------------------------|
+|  0 | Big Startup (More than 200 Employees) | 0-2 Years    | 17,000 - 25,000 | 21,000   | Less than 3 people in this group |
+|  1 | Big Startup (More than 200 Employees) | 3-5 Years    | 11,000 - 28,000 | 21,250   |                                  |
+|  2 | Big Startup (More than 200 Employees) | 6-9 Years    | 22,000 - 27,000 | 24,500   | Less than 3 people in this group |
+|  3 | Enterprise/Corporate                  | 0-2 Years    | 10,500 - 19,000 | 15,000   |                                  |
+|  4 | Enterprise/Corporate                  | 10+ Years    | 45,000 - 45,000 | 45,000   | Less than 3 people in this group |
+|  5 | Enterprise/Corporate                  | 3-5 Years    | 12,100 - 20,700 | 19,500   |                                  |
+|  6 | Enterprise/Corporate                  | 6-9 Years    | 24,000 - 30,000 | 27,000   | Less than 3 people in this group |
+|  7 | Government                            | 10+ Years    | 30,500 - 30,500 | 30,500   | Less than 3 people in this group |
+|  8 | Medium Startup (41-200 Employees)     | 0-2 Years    | 17,500 - 24,000 | 20,750   | Less than 3 people in this group |
+|  9 | Medium Startup (41-200 Employees)     | 10+ Years    | 31,000 - 31,000 | 31,000   | Less than 3 people in this group |
+| 10 | Medium Startup (41-200 Employees)     | 3-5 Years    | 20,000 - 40,000 | 24,500   |                                  |
+| 11 | Medium Startup (41-200 Employees)     | 6-9 Years    | 20,000 - 26,000 | 22,500   |                                  |
+| 12 | Small Startup (up to 40 Employees)    | 0-2 Years    | 12,500 - 22,000 | 14,000   |                                  |
+| 13 | Small Startup (up to 40 Employees)    | 3-5 Years    | 11,000 - 41,000 | 19,250   |                                  |
+| 14 | Small Startup (up to 40 Employees)    | 6-9 Years    | 15,000 - 37,000 | 23,000   |                                  |
     
     ## A Few Interesting Bar Graphs
     
