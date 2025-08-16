@@ -22,7 +22,8 @@
 - Community members who created and contributed to this report: Danielle Menuhin, Noemie Guthmann, Ziv Tubi, Liz Polansky
 
 
-## Visit our [salary survey vibe coded app](https://data-operations-il-2025-salary-explorer-627943038990.us-west1.run.app/) to play with the data independently
+## Visit our [salary survey vibe coded app](https://data-operations-il-2025-salary-explorer-627943038990.us-west1.run.app/) to play with the data independently. 
+Tip: since we don't have a lot of data, pick 2-3 filters max, otherwise you'll probably not have data showing 
 
 
 - General Overview
