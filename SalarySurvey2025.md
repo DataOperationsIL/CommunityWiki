@@ -22,7 +22,7 @@ Very Technical: I'm proficient in coding and can do automation/data engineering 
 - Community members who created and contributed to this report: Danielle Menuhin, Noemie Guthmann, Ziv Tubi
 
 
-##Visit our [salary survey vibe coded app](https://data-operations-il-2025-salary-explorer-627943038990.us-west1.run.app/) to play with the data independently
+## Visit our [salary survey vibe coded app](https://data-operations-il-2025-salary-explorer-627943038990.us-west1.run.app/) to play with the data independently
 
 
 - General Overview
