@@ -186,76 +186,76 @@ Explanation missing
 |:-------------------|:----------------|:---------|:-----------|
 | Practical          | 11,000 - 15,000 | 13,000   | < 3 people |
 | Practical+Tactical | 10,500 - 21,000 | 17,500   |            |
-| Strategic          | 19,500 - 41,000 | 24,000   |            |
 | Tactical           | 21,500 - 27,000 | 24,250   | < 3 people |
 | Tactical+Strategic | 12,100 - 45,000 | 22,500   |            |
+| Strategic          | 19,500 - 41,000 | 24,000   |            |
 
 
 
 | Job Type           | Experience   | Range           | Median   | Comment    |
 |:-------------------|:-------------|:----------------|:---------|:-----------|
 | Practical          | 0-2 Years    | 15,000 - 15,000 | 15,000   | < 3 people |
-| Practical          | 3-5 Years    | 11,000 - 11,000 | 11,000   | < 3 people |
+|           | 3-5 Years    | 11,000 - 11,000 | 11,000   | < 3 people |
 | Practical+Tactical | 0-2 Years    | 10,500 - 17,500 | 12,500   |            |
-| Practical+Tactical | 3-5 Years    | 11,000 - 21,000 | 19,850   |            |
-| Strategic          | 3-5 Years    | 19,500 - 41,000 | 24,000   |            |
-| Strategic          | 6-9 Years    | 20,000 - 24,000 | 22,000   | < 3 people |
+|  | 3-5 Years    | 11,000 - 21,000 | 19,850   |            |
 | Tactical           | 3-5 Years    | 21,500 - 21,500 | 21,500   | < 3 people |
-| Tactical           | 6-9 Years    | 27,000 - 27,000 | 27,000   | < 3 people |
+|           | 6-9 Years    | 27,000 - 27,000 | 27,000   | < 3 people |
 | Tactical+Strategic | 0-2 Years    | 13,000 - 25,000 | 19,000   |            |
-| Tactical+Strategic | 10+ Years    | 30,500 - 45,000 | 31,000   |            |
-| Tactical+Strategic | 3-5 Years    | 12,100 - 30,000 | 20,000   |            |
-| Tactical+Strategic | 6-9 Years    | 15,000 - 37,000 | 24,000   |            |
+| | 3-5 Years    | 12,100 - 30,000 | 20,000   |            |
+|  | 6-9 Years    | 15,000 - 37,000 | 24,000   |            |
+|  | 10+ Years    | 30,500 - 45,000 | 31,000   |            |
+| Strategic          | 3-5 Years    | 19,500 - 41,000 | 24,000   |            |
+|           | 6-9 Years    | 20,000 - 24,000 | 22,000   | < 3 people |
 
 
 | Job Type           | Type of Workplace                     | Range           | Median   | Comment    |
 |:-------------------|:--------------------------------------|:----------------|:---------|:-----------|
 | Practical          | Big Startup (More than 200 Employees) | 11,000 - 11,000 | 11,000   | < 3 people |
-| Practical          | Enterprise/Corporate                  | 15,000 - 15,000 | 15,000   | < 3 people |
+|           | Enterprise/Corporate                  | 15,000 - 15,000 | 15,000   | < 3 people |
 | Practical+Tactical | Big Startup (More than 200 Employees) | 21,000 - 21,000 | 21,000   | < 3 people |
-| Practical+Tactical | Enterprise/Corporate                  | 10,500 - 20,700 | 19,000   |            |
-| Practical+Tactical | Medium Startup (41-200 Employees)     | 17,500 - 17,500 | 17,500   | < 3 people |
-| Practical+Tactical | Small Startup (up to 40 Employees)    | 11,000 - 12,500 | 11,750   | < 3 people |
-| Strategic          | Big Startup (More than 200 Employees) | 24,000 - 24,000 | 24,000   | < 3 people |
-| Strategic          | Enterprise/Corporate                  | 24,000 - 24,000 | 24,000   | < 3 people |
-| Strategic          | Medium Startup (41-200 Employees)     | 20,000 - 40,000 | 23,500   |            |
-| Strategic          | Small Startup (up to 40 Employees)    | 19,500 - 41,000 | 30,250   | < 3 people |
+|  | Enterprise/Corporate                  | 10,500 - 20,700 | 19,000   |            |
+|  | Medium Startup (41-200 Employees)     | 17,500 - 17,500 | 17,500   | < 3 people |
+|  | Small Startup (up to 40 Employees)    | 11,000 - 12,500 | 11,750   | < 3 people |
 | Tactical           | Big Startup (More than 200 Employees) | 21,500 - 27,000 | 24,250   | < 3 people |
 | Tactical+Strategic | Big Startup (More than 200 Employees) | 17,000 - 28,000 | 22,000   |            |
-| Tactical+Strategic | Enterprise/Corporate                  | 12,100 - 45,000 | 20,000   |            |
-| Tactical+Strategic | Government                            | 30,500 - 30,500 | 30,500   | < 3 people |
-| Tactical+Strategic | Medium Startup (41-200 Employees)     | 20,000 - 31,000 | 24,750   |            |
-| Tactical+Strategic | Small Startup (up to 40 Employees)    | 13,000 - 37,000 | 19,000   |            |
+|  | Enterprise/Corporate                  | 12,100 - 45,000 | 20,000   |            |
+|  | Government                            | 30,500 - 30,500 | 30,500   | < 3 people |
+| | Medium Startup (41-200 Employees)     | 20,000 - 31,000 | 24,750   |            |
+|  | Small Startup (up to 40 Employees)    | 13,000 - 37,000 | 19,000   |            |
+| Strategic          | Big Startup (More than 200 Employees) | 24,000 - 24,000 | 24,000   | < 3 people |
+|           | Enterprise/Corporate                  | 24,000 - 24,000 | 24,000   | < 3 people |
+|           | Medium Startup (41-200 Employees)     | 20,000 - 40,000 | 23,500   |            |
+|           | Small Startup (up to 40 Employees)    | 19,500 - 41,000 | 30,250   | < 3 people |
 
 
 | Job Type           | Technical Skills     | Range           | Median   | Comment    |
 |:-------------------|:---------------------|:----------------|:---------|:-----------|
 | Practical          | Moderately Technical | 11,000 - 15,000 | 13,000   | < 3 people |
-| Practical+Tactical | Moderately Technical | 12,500 - 17,500 | 15,000   | < 3 people |
 | Practical+Tactical | Somewhat Technical   | 10,500 - 21,000 | 19,000   |            |
-| Strategic          | Moderately Technical | 20,000 - 41,000 | 24,000   |            |
-| Strategic          | Somewhat Technical   | 19,500 - 40,000 | 29,750   | < 3 people |
-| Strategic          | Very Technical       | 23,500 - 24,000 | 23,750   | < 3 people |
+|  | Moderately Technical | 12,500 - 17,500 | 15,000   | < 3 people |
 | Tactical           | Moderately Technical | 21,500 - 27,000 | 24,250   | < 3 people |
-| Tactical+Strategic | Moderately Technical | 19,000 - 30,000 | 22,500   |            |
 | Tactical+Strategic | Non-Technical        | 19,000 - 30,500 | 24,500   |            |
-| Tactical+Strategic | Somewhat Technical   | 12,100 - 37,000 | 22,500   |            |
-| Tactical+Strategic | Very Technical       | 15,000 - 45,000 | 22,000   |            |
+|  | Somewhat Technical   | 12,100 - 37,000 | 22,500   |            |
+|  | Moderately Technical | 19,000 - 30,000 | 22,500   |            |
+|  | Very Technical       | 15,000 - 45,000 | 22,000   |            |
+| Strategic          | Somewhat Technical   | 19,500 - 40,000 | 29,750   | < 3 people |
+|           | Moderately Technical | 20,000 - 41,000 | 24,000   |            |
+|           | Very Technical       | 23,500 - 24,000 | 23,750   | < 3 people |
 
 
 | Job Type           | Hands-on                             | Range           | Median   | Comment    |
 |:-------------------|:-------------------------------------|:----------------|:---------|:-----------|
 | Practical          | Most/all of my work is hands on      | 11,000 - 15,000 | 13,000   | < 3 people |
 | Practical+Tactical | Most/all of my work is hands on      | 10,500 - 21,000 | 11,750   |            |
-| Practical+Tactical | ~50% of my work is hands on          | 17,500 - 20,700 | 19,000   |            |
-| Strategic          | Less than 20% of my work is hands on | 24,000 - 41,000 | 32,500   | < 3 people |
-| Strategic          | Most/all of my work is hands on      | 19,500 - 24,000 | 21,750   | < 3 people |
-| Strategic          | ~50% of my work is hands on          | 20,000 - 40,000 | 23,500   |            |
-| Tactical           | Less than 20% of my work is hands on | 21,500 - 21,500 | 21,500   | < 3 people |
+|  | ~50% of my work is hands on          | 17,500 - 20,700 | 19,000   |            |
 | Tactical           | Most/all of my work is hands on      | 27,000 - 27,000 | 27,000   | < 3 people |
-| Tactical+Strategic | Less than 20% of my work is hands on | 12,100 - 37,000 | 20,000   |            |
+|            | Less than 20% of my work is hands on | 21,500 - 21,500 | 21,500   | < 3 people |
 | Tactical+Strategic | Most/all of my work is hands on      | 13,000 - 15,000 | 14,000   | < 3 people |
-| Tactical+Strategic | ~50% of my work is hands on          | 17,000 - 45,000 | 24,250   |            |
+|  | ~50% of my work is hands on          | 17,000 - 45,000 | 24,250   |            |
+|  | Less than 20% of my work is hands on | 12,100 - 37,000 | 20,000   |            |
+| Strategic          | Most/all of my work is hands on      | 19,500 - 24,000 | 21,750   | < 3 people |
+|           | ~50% of my work is hands on          | 20,000 - 40,000 | 23,500   |            |
+|           | Less than 20% of my work is hands on | 24,000 - 41,000 | 32,500   | < 3 people |
     
   
     
