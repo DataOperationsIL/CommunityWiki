@@ -179,8 +179,9 @@ Very Technical: I'm proficient in coding and can do automation/data engineering 
 
 
 ## Experimental Section - Salaries by Job Type
+In this salary survey questionnaire we added a question asking respondents to list what they do at work, and used that data to sort the roles, using a taxonomy based on the [ISO-8k] scheme(https://www.dpadvantage.co.uk/wp-content/uploads/2018/03/DPA-White-Paper-ISO-8000-Part-150-1-1.pdf).
 
-Explanation missing
+
 
 | Job Type           | Range           | Median   | Comment    |
 |:-------------------|:----------------|:---------|:-----------|
