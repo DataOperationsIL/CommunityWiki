@@ -15,17 +15,17 @@
 
 
 
-## Our many thanks for enabling this survey go out to:
+### Our many thanks for enabling this survey go out to:
 
 - **The people who responded**. Thank you so much for sharing this info with us, if we had a way to know who you are we would thank every one of you personally.
 - [ChatGPT](https://chatgpt.com/) and [Claude](https://claude.ai/) for their marvelous assistance in putting this report together
 - Community members who created and contributed to this report: Danielle Menuhin, Noemie Guthmann, Ziv Tubi, Liz Polansky
 
 
-## Visit our [salary survey vibe coded app](https://data-operations-il-2025-salary-explorer-627943038990.us-west1.run.app/) to play with the data independently. 
+### Visit our [salary survey vibe coded app](https://data-operations-il-2025-salary-explorer-627943038990.us-west1.run.app/) to play with the data independently. 
 Tip: since we don't have a lot of data, pick 2-3 filters max, otherwise you'll probably not have data showing 
 
-
+## Report Itself
 - General Overview
     
     This section refers to all data for global salary employees who responded to this survey.
