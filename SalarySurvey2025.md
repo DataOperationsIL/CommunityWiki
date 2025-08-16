@@ -5,7 +5,7 @@
 
 - All salary numbers/rangers are global, we do not have data on hourly salaries for this survey (we had one respondent with an hourly salary, so we opted not to use it)
 - All salary numbers are the Bruto numbers, not including extra benefits such as RSU’s, 10bis, etc.
-- **Everything Must Be Taken With a Grain of Salt**. We only have 49 responses to the survey, and in many cases, you’ll see a comment “<3 people” which means we only have 1-2 answers in this group, so numbers are not reliable in any way.
+- **Everything Must Be Taken With a Grain of Salt**. We only have 45 responses to the survey, and in many cases, you’ll see a comment “<3 people” which means we only have 1-2 answers in this group, so numbers are not reliable in any way.
 
 - Definition of technical skills (you will see this in several places throughout the report) :
 -     Non-Technical: I rely on others for technical tasks and only use pre-built tools
@@ -19,7 +19,7 @@
 
 - **The people who responded**. Thank you so much for sharing this info with us, if we had a way to know who you are we would thank every one of you personally.
 - [ChatGPT](https://chatgpt.com/) and [Claude](https://claude.ai/) for their marvelous assistance in putting this report together
-- Community members who created and contributed to this report: Danielle Menuhin, Noemie Guthmann, Ziv Tubi
+- Community members who created and contributed to this report: Danielle Menuhin, Noemie Guthmann, Ziv Tubi, Liz Polansky
 
 
 ## Visit our [salary survey vibe coded app](https://data-operations-il-2025-salary-explorer-627943038990.us-west1.run.app/) to play with the data independently
@@ -151,17 +151,6 @@
 | Medium Startup (41-200 Employees)     | 20,000 - 24,000 | 23,500   |            |
 | Small Startup (up to 40 Employees)    | 12,500 - 22,000 | 17,000   |            |
 
-
-
-*Definition of technical skills:
-    
-Non-Technical: I rely on others for technical tasks and only use pre-built tools
-    
-Somewhat Technical: I can use basic data tools such as Excel and querying engines (such as SQL)
-    
-Moderately Technical: I can do some coding and data manipulation tasks independently
-    
-Very Technical: I'm proficient in coding and can do automation/data engineering tasks
 
     
 - Specialized Knowledge
