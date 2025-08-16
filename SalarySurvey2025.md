@@ -33,8 +33,8 @@
 | Type of Workplace                     | Experience   | Range           | Median   | Comment                          |
 |:--------------------------------------|:-------------|:----------------|:---------|:---------------------------------|
 | Big Startup (More than 200 Employees) | 0-2 Years    | 17,000 - 25,000 | 21,000   | Less than 3 people in this group |
-| Big Startup (More than 200 Employees) | 3-5 Years    | 11,000 - 28,000 | 21,250   |                                  |
-| Big Startup (More than 200 Employees) | 6-9 Years    | 22,000 - 27,000 | 24,500   | Less than 3 people in this group |
+|  | 3-5 Years    | 11,000 - 28,000 | 21,250   |                                  |
+|  | 6-9 Years    | 22,000 - 27,000 | 24,500   | Less than 3 people in this group |
 | Enterprise/Corporate                  | 0-2 Years    | 10,500 - 19,000 | 15,000   |                                  |
 | Enterprise/Corporate                  | 10+ Years    | 45,000 - 45,000 | 45,000   | Less than 3 people in this group |
 | Enterprise/Corporate                  | 3-5 Years    | 12,100 - 20,700 | 19,500   |                                  |
