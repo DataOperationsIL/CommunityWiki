@@ -181,6 +181,15 @@ Very Technical: I'm proficient in coding and can do automation/data engineering 
 ## Experimental Section - Salaries by Job Type
 In this salary survey questionnaire we added a question asking respondents to list what they do at work, and used that data to sort the roles, using a taxonomy based on the [ISO-8k scheme](https://www.dpadvantage.co.uk/wp-content/uploads/2018/03/DPA-White-Paper-ISO-8000-Part-150-1-1.pdf).
 
+This scheme divides the roles in data operations to 3 levels:
+
+| Level          | Definition           | Type of work   | Sample titles    |
+|:-------------------|:----------------|:---------|:-----------|
+| Practical          | Data processing activities that create, modify, update, assess and transfer data according to existing criteria | Data labeling, collection, manual AI output evaluation, data curation   | < 3 people |
+| Tactical           | Management of data standards and definition, implementation and configuration of them
+Setting measures and methods to assess/collect/curate data| Data QA, guidelines ownership   | < 3 people |
+| Strategic          | Sets the objectives of data processes to align with organizational objectives | Goal planning, budget/resource management, managing cross functional relationships   |            |
+
 
 
 | Job Type           | Range           | Median   | Comment    |
