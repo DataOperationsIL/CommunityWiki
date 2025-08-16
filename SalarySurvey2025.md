@@ -7,11 +7,11 @@
 - All salary numbers are the Bruto numbers, not including extra benefits such as RSU’s, 10bis, etc.
 - **Everything Must Be Taken With a Grain of Salt**. We only have 49 responses to the survey, and in many cases, you’ll see a comment “<3 people” which means we only have 1-2 answers in this group, so numbers are not reliable in any way.
 
-- *Definition of technical skills (you will see this in several places throughout the report) 
-Non-Technical: I rely on others for technical tasks and only use pre-built tools
-Somewhat Technical: I can use basic data tools such as Excel and querying engines (such as SQL)
-Moderately Technical: I can do some coding and data manipulation tasks independently
-Very Technical: I'm proficient in coding and can do automation/data engineering tasks
+- Definition of technical skills (you will see this in several places throughout the report) :
+-     Non-Technical: I rely on others for technical tasks and only use pre-built tools
+-     Somewhat Technical: I can use basic data tools such as Excel and querying engines (such as SQL)
+-     Moderately Technical: I can do some coding and data manipulation tasks independently
+-     Very Technical: I'm proficient in coding and can do automation/data engineering tasks
 
 
 
