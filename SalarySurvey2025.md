@@ -65,7 +65,6 @@ Tip: since we don't have a lot of data, pick 2-3 filters max, otherwise you'll p
     
 ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2025/salary_by_experience.png)
     
-![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2025/salary_by_workplace.png)
     
 ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2025/salary_by_technical_skills.png)
     
