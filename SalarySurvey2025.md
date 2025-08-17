@@ -172,7 +172,7 @@ Tip: since we don't have a lot of data, pick 2-3 filters max, otherwise you'll p
 | Small Startup (up to 40 Employees)    | 11,000 - 15,000 | 13,000   | < 3 people |
 
 
-## Experimental Section - Salaries by Job Type
+## Experimental Section - Salaries by Role Level
 In this salary survey questionnaire we added a question asking respondents to list what they do at work, and used that data to sort the roles, using a taxonomy based on the [ISO-8k scheme](https://www.dpadvantage.co.uk/wp-content/uploads/2018/03/DPA-White-Paper-ISO-8000-Part-150-1-1.pdf).
 
 This scheme divides the roles in data operations to 3 levels:
