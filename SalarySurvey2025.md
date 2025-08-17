@@ -24,21 +24,21 @@
 ### Visit our [salary survey vibe coded app](https://data-operations-il-2025-salary-explorer-627943038990.us-west1.run.app/) to play with the data independently. 
 Tip: since we don't have a lot of data, pick 2-3 filters max, otherwise you'll probably not have data showing 
 
-## Report Itself
-- General Overview
+# Report
+## General Overview
     
-    This section refers to all data for global salary employees who responded to this survey.
+  This section refers to all data for global salary employees who responded to this survey.
     
-    ## Some Basics:
+  ### Some Basics:
     
-    - Average Salary: 22,540 ILS
+   - Average Salary: 22,540 ILS
     - Median Salary: 21,250 ILS
     - Minimum Salary: 10,500 ILS
     - Maximum Salary: 45,000 ILS
     
-    ## Histogram of our salary values:
+   ### Histogram of our salary values:
     
-    ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2025/salary_histogram.png)
+  ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2025/salary_histogram.png)
   
     
 
@@ -60,20 +60,19 @@ Tip: since we don't have a lot of data, pick 2-3 filters max, otherwise you'll p
 |    | 3-5 Years    | 11,000 - 41,000 | 19,250   |                                  |
 |    | 6-9 Years    | 15,000 - 37,000 | 23,000   |                                  |
     
-## A Few Interesting Bar Graphs
+### A Few Interesting Bar Graphs
     
 ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2025/salary_by_experience.png)
     
     
 ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2025/salary_by_technical_skills.png)
     
-
     
 ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2025/salary_by_workplace_and_experience.png)
     
 ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2025/salary_by_workplace_and_technical_skills.png)
     
-- People Managers
+## People Managers
     
     
 | Type of Workplace                     | Team Size               | Range           | Median   | Comment    |
@@ -115,9 +114,9 @@ Tip: since we don't have a lot of data, pick 2-3 filters max, otherwise you'll p
 | Small Startup (up to 40 Employees)    | Half or more of my work is hands on  | 23,000 - 23,000 | 23,000   | < 3 people |
 |    | Less than 20% of my work is hands on | 37,000 - 41,000 | 39,000   | < 3 people |
     
-- Non Managers
+## Non Managers
     
-    The data in this section refers to people who work in data operations in roles that do not include managing people directly - they could still be managing the operation or the quality, but they have no people reporting to them.
+  The data in this section refers to people who work in data operations in roles that do not include managing people directly - they could still be managing the operation or the quality, but they have no people reporting to them.
     
 | Experience   | Technical Skills     | Range           | Median   | Comment    |
 |:-------------|:---------------------|:----------------|:---------|:-----------|
@@ -152,9 +151,9 @@ Tip: since we don't have a lot of data, pick 2-3 filters max, otherwise you'll p
 
 
     
-- Specialized Knowledge
+## Specialized Knowledge
     
-    Special knowledge = area of expertise a person had to have before starting the job (examples: medicine, architecture, law, and other subjects that cannot be studied while working).
+  Special knowledge = area of expertise a person had to have before starting the job (examples: medicine, architecture, law, and other subjects that cannot be studied while working).
     
 | Experience   | Range           | Median   | Comment    |
 |:-------------|:----------------|:---------|:-----------|
