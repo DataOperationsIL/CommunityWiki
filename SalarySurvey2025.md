@@ -18,7 +18,7 @@
 
 - **The people who responded**. Thank you so much for sharing this info with us, if we had a way to know who you are we would thank every one of you personally.
 - [ChatGPT](https://chatgpt.com/) and [Claude](https://claude.ai/) for their marvelous assistance in putting this report together
-- Community members who created and contributed to this report: Danielle Menuhin, Noemie Guthmann, Ziv Tubi, Liz Polansky
+- Community members who created and contributed to this report: Danielle Menuhin, Noemie Guthmann, Ziv Tubi, Liz Polansky and many others who contributed and gave feedback
 
 
 ### Visit our [salary survey vibe coded app](https://data-operations-il-2025-salary-explorer-627943038990.us-west1.run.app/) to play with the data independently. 
