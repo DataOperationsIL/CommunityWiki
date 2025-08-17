@@ -188,6 +188,7 @@ Note: these levels are not mutually exclusive. You'll find combination categorie
 Also, from our experience with smaller organizations in Israel, those category boundaries can be blurred until operations move from 1-2 persons in charge to a small team, for instance in the areas of taxonomy and/or catalog operations. However there is no such thing (as far as we know) as Practical+tactical+strategic or Practical+strategic.
 
 
+
 | Role Level           | Range           | Median   | Comment    |
 |:-------------------|:----------------|:---------|:-----------|
 | Practical          | 11,000 - 15,000 | 13,000   | < 3 people |
