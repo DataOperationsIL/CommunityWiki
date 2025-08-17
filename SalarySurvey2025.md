@@ -183,7 +183,9 @@ This scheme divides the roles in data operations to 3 levels:
 | Tactical           | Management of data standards, schemas and definition, implementation and configuration of them |  Data QA, guidelines ownership   | Data QA, Quality analyst |
 | Strategic          | Sets the objectives of data processes to align with organizational objectives | Goal planning, budget/resource management, managing cross functional relationships   |   Data annotation team lead, Data operations team manager         |
 
-Note: these levels are not mutually exclusive, you'll find combination categories such as Practical+Tactical , and Tactical+Strategic in this report, as these combinations are prevalent according to our data and experience. However there is no such thing (as far as we know) as Practical+tactical+strategic or Practical+strategic. 
+Note: these levels are not mutually exclusive. You'll find combination categories such as Practical+Tactical , and Tactical+Strategic in this report, as these combinations are prevalent according to our data. 
+
+Also, from our experience with smaller organizations in Israel, those category boundaries can be blurred until operations move from 1-2 persons in charge to a small team, for instance in the areas of taxonomy and/or catalog operations. However there is no such thing (as far as we know) as Practical+tactical+strategic or Practical+strategic.
 
 
 | Role Level           | Range           | Median   | Comment    |
