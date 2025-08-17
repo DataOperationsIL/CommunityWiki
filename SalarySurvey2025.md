@@ -185,7 +185,7 @@ This scheme divides the roles in data operations to 3 levels:
 Note: these levels are not mutually exclusive, you'll find combination categories such as Practical+Tactical and Tactical+Strategic in this report, as these combinations are prevalent according to our data and experience. However there is no such thing (as far as we know) as Practical+tactical+strategic or Practical+strategic. 
 
 
-| Job Type           | Range           | Median   | Comment    |
+| Role Level           | Range           | Median   | Comment    |
 |:-------------------|:----------------|:---------|:-----------|
 | Practical          | 11,000 - 15,000 | 13,000   | < 3 people |
 | Practical+Tactical | 10,500 - 21,000 | 17,500   |            |
@@ -195,7 +195,7 @@ Note: these levels are not mutually exclusive, you'll find combination categorie
 
 
 
-| Job Type           | Experience   | Range           | Median   | Comment    |
+| Role Level          | Experience   | Range           | Median   | Comment    |
 |:-------------------|:-------------|:----------------|:---------|:-----------|
 | Practical          | 0-2 Years    | 15,000 - 15,000 | 15,000   | < 3 people |
 |           | 3-5 Years    | 11,000 - 11,000 | 11,000   | < 3 people |
@@ -211,7 +211,7 @@ Note: these levels are not mutually exclusive, you'll find combination categorie
 |           | 6-9 Years    | 20,000 - 24,000 | 22,000   | < 3 people |
 
 
-| Job Type           | Type of Workplace                     | Range           | Median   | Comment    |
+| Role Level          | Type of Workplace                     | Range           | Median   | Comment    |
 |:-------------------|:--------------------------------------|:----------------|:---------|:-----------|
 | Practical          | Big Startup (More than 200 Employees) | 11,000 - 11,000 | 11,000   | < 3 people |
 |           | Enterprise/Corporate                  | 15,000 - 15,000 | 15,000   | < 3 people |
@@ -231,7 +231,7 @@ Note: these levels are not mutually exclusive, you'll find combination categorie
 |           | Small Startup (up to 40 Employees)    | 19,500 - 41,000 | 30,250   | < 3 people |
 
 
-| Job Type           | Technical Skills     | Range           | Median   | Comment    |
+| Role Level          | Technical Skills     | Range           | Median   | Comment    |
 |:-------------------|:---------------------|:----------------|:---------|:-----------|
 | Practical          | Moderately Technical | 11,000 - 15,000 | 13,000   | < 3 people |
 | Practical+Tactical | Somewhat Technical   | 10,500 - 21,000 | 19,000   |            |
@@ -246,19 +246,7 @@ Note: these levels are not mutually exclusive, you'll find combination categorie
 |           | Very Technical       | 23,500 - 24,000 | 23,750   | < 3 people |
 
 
-| Job Type           | Hands-on                             | Range           | Median   | Comment    |
-|:-------------------|:-------------------------------------|:----------------|:---------|:-----------|
-| Practical          | Most/all of my work is hands on      | 11,000 - 15,000 | 13,000   | < 3 people |
-| Practical+Tactical | Most/all of my work is hands on      | 10,500 - 21,000 | 11,750   |            |
-|  | ~50% of my work is hands on          | 17,500 - 20,700 | 19,000   |            |
-| Tactical           | Most/all of my work is hands on      | 27,000 - 27,000 | 27,000   | < 3 people |
-|            | Less than 20% of my work is hands on | 21,500 - 21,500 | 21,500   | < 3 people |
-| Tactical+Strategic | Most/all of my work is hands on      | 13,000 - 15,000 | 14,000   | < 3 people |
-|  | ~50% of my work is hands on          | 17,000 - 45,000 | 24,250   |            |
-|  | Less than 20% of my work is hands on | 12,100 - 37,000 | 20,000   |            |
-| Strategic          | Most/all of my work is hands on      | 19,500 - 24,000 | 21,750   | < 3 people |
-|           | ~50% of my work is hands on          | 20,000 - 40,000 | 23,500   |            |
-|           | Less than 20% of my work is hands on | 24,000 - 41,000 | 32,500   | < 3 people |
+
     
   
     
