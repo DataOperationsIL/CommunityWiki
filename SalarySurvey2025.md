@@ -7,12 +7,11 @@
 - All salary numbers are the Bruto numbers, not including extra benefits such as RSU’s, 10bis, etc.
 - **Everything Must Be Taken With a Grain of Salt**. We only have 45 responses to the survey, and in many cases, you’ll see a comment “<3 people” which means we only have 1-2 answers in this group, so numbers are not reliable in any way.
 
-- Definition of technical skills (you will see this in several places throughout the report) :
--     Non-Technical: I rely on others for technical tasks and only use pre-built tools
--     Somewhat Technical: I can use basic data tools such as Excel and querying engines (such as SQL)
--     Moderately Technical: I can do some coding and data manipulation tasks independently
--     Very Technical: I'm proficient in coding and can do automation/data engineering tasks
-
+- Definition of technical skills (you will see this in several places throughout the report):
+  - Non-Technical: I rely on others for technical tasks and only use pre-built tools
+  - Somewhat Technical: I can use basic data tools such as Excel and querying engines (such as SQL)
+  - Moderately Technical: I can do some coding and data manipulation tasks independently
+  - Very Technical: I'm proficient in coding and can do automation/data engineering tasks
 
 
 ### Our many thanks for enabling this survey go out to:
@@ -182,7 +181,7 @@ This scheme divides the roles in data operations to 3 levels:
 | Tactical           | Management of data standards, schemas and definition, implementation and configuration of them |  Data QA, guidelines ownership   | Data QA, Quality analyst |
 | Strategic          | Sets the objectives of data processes to align with organizational objectives | Goal planning, budget/resource management, managing cross functional relationships   |   Data annotation team lead, Data operations team manager         |
 
-Note: these levels are not mutually exclusive, you'll find combination categories such as Practical+Tactical and Tactical+Strategic in this report, as these combinations are prevalent according to our data and experience. However there is no such thing (as far as we know) as Practical+tactical+strategic or Practical+strategic. 
+Note: these levels are not mutually exclusive, you'll find combination categories such as Practical+Tactical , and Tactical+Strategic in this report, as these combinations are prevalent according to our data and experience. However there is no such thing (as far as we know) as Practical+tactical+strategic or Practical+strategic. 
 
 
 | Role Level           | Range           | Median   | Comment    |
