@@ -32,9 +32,12 @@ Tip: since we don't have a lot of data, pick 2-3 filters max, otherwise you'll p
   ### Some Basics:
     
    - Average Salary: 22,540 ILS
-    - Median Salary: 21,250 ILS
-    - Minimum Salary: 10,500 ILS
-    - Maximum Salary: 45,000 ILS
+
+   - Median Salary: 21,250 ILS
+     
+  - Minimum Salary: 10,500 ILS
+    
+   - Maximum Salary: 45,000 ILS
     
    ### Histogram of our salary values:
     
