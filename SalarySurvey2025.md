@@ -17,7 +17,7 @@
 ### Our many thanks for enabling this survey go out to:
 
 - **The people who responded**. Thank you so much for sharing this info with us, if we had a way to know who you are we would thank every one of you personally.
-- [ChatGPT](https://chatgpt.com/) and [Claude](https://claude.ai/) for their marvelous assistance in putting this report together
+- [ChatGPT](https://chatgpt.com/), [Claude](https://claude.ai/) and [AI Studio](https://aistudio.google.com/) for their marvelous assistance in putting this report together
 - Community members who created and contributed to this report: Danielle Menuhin, Noemie Guthmann, Ziv Tubi, Liz Polansky and many others who contributed and gave feedback
 
 
