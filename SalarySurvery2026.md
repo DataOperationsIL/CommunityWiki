@@ -174,7 +174,9 @@ Note: these levels are not mutually exclusive. You'll find combination categorie
 
 Also, from our experience with smaller organizations in Israel, those category boundaries can be blurred until operations move from 1-2 persons in charge to a small team, for instance in the areas of taxonomy and/or catalog operations. However there is no such thing (as far as we know) as Practical+tactical+strategic or Practical+strategic.
 
-Logic for mapping job responsibilities to role level: for each person, if 30% or more of the job responsibilities were mapped to a certain level, it's included in their role level (so for example, a person with 40% tactical job responsibilities, 40% practical job responsibilities, and 20% strategic job responsibilities will be mapped to Practical+Tactical level)
+Logic for mapping job responsibilities to role level: for each person, if 30% or more of the job responsibilities were mapped to a certain level, it's included in their role level (so for example, a person with 40% tactical job responsibilities, 40% practical job responsibilities, and 20% strategic job responsibilities will be mapped to Practical+Tactical level).
+
+## To find out where you role falls within this survey's logic, use [this tool](https://dataoperationsil.github.io/data-ops-role-level-2026/)
 
 | Role Level                   | Salary Range    | Median Value   | Comment   |
 |:-----------------------------|:----------------|:---------------|:----------|
