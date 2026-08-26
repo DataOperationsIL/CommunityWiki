@@ -32,7 +32,7 @@
 
 
    ### Histogram of our salary values:
-    
+  ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2026%20images/salary_distribution_histogram_2026.png)    
 
 
   ### Global Salaries
@@ -48,6 +48,15 @@
 |     | Medium Startup (41-200 Employees)     | 17,000 - 22,000 |          19,500 | <3 respondents |
 |     | Small Startup (up to 40 Employees)    | 28,000 - 40,000 |          34,000 | <3 respondents |
 | 10+ Years    | Enterprise/Corporate                  | 20,000 - 45,000 |          36,000 |                |
+
+
+### Some interesting graphs (hopefully)
+![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2026%20images/median_salary_by_experience_2026.png)  
+
+![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2026%20images/median_salary_by_experience_and_workplace_2026.png) 
+
+![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2026%20images/median_salary_by_workplace_type_2026.png) 
+
 
 
 
@@ -151,12 +160,30 @@
 
 ##Experimental Section - Role Level Segmentation
 
+In this salary survey questionnaire we added a question asking respondents to list what they do at work, and used that data to sort the roles, using a taxonomy based on the [ISO-8k scheme](https://www.dpadvantage.co.uk/wp-content/uploads/2018/03/DPA-White-Paper-ISO-8000-Part-150-1-1.pdf).
+
+This scheme divides the roles in data operations to 3 levels:
+
+| Level          | Definition           | Type of work   | Sample titles    |
+|:-------------------|:----------------|:---------|:-----------|
+| Practical          | Data processing activities that create, modify, update, assess and transfer data according to existing criteria | Data labeling, collection, manual AI output evaluation, data curation   | Data labeler, data evaluator |
+| Tactical           | Management of data standards, schemas and definition, implementation and configuration of them |  Data QA, guidelines ownership   | Data QA, Quality analyst |
+| Strategic          | Sets the objectives of data processes to align with organizational objectives | Goal planning, budget/resource management, managing cross functional relationships   |   Data annotation team lead, Data operations team manager         |
+
+Note: these levels are not mutually exclusive. You'll find combination categories such as Practical+Tactical , and Tactical+Strategic in this report, as these combinations are prevalent according to our data. 
+
+Also, from our experience with smaller organizations in Israel, those category boundaries can be blurred until operations move from 1-2 persons in charge to a small team, for instance in the areas of taxonomy and/or catalog operations. However there is no such thing (as far as we know) as Practical+tactical+strategic or Practical+strategic.
+
+Logic for mapping job responsibilities to role level: for each person, if 30% or more of the job responsibilities were mapped to a certain level, it's included in their role level (so for example, a person with 40% tactical job responsibilities, 40% practical job responsibilities, and 20% strategic job responsibilities will be mapped to Practical+Tactical level)
+
 | Role Level                   | Salary Range    | Median Value   | Comment   |
 |:-----------------------------|:----------------|:---------------|:----------|
 | Strategic                    | 26,250 - 45,000 | 33,000         |           |
 | Tactical+Strategic           | 13,000 - 45,000 | 27,000         |           |
 | Practical+Tactical+Strategic | 17,000 - 22,000 | 20,500         |           |
 | Practical+Tactical           | 10,500 - 27,000 | 14,750         |           |
+
+![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2026%20images/median_salary_by_workplace_type_2026.png) 
 
 ### Role Level by Experience
 
