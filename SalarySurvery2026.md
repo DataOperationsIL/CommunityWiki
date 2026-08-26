@@ -12,7 +12,7 @@
 
 - **The people who responded**. Thank you so much for sharing this info with us, if we had a way to know who you are we would thank every one of you personally.
 - [ChatGPT](https://chatgpt.com/) and [Github Copilot](https://github.com/copilot) for their marvelous assistance in putting this report together
-- Community members who created and contributed to this report: Danielle Menuhin, Gaia Steinberg, Yael Firer, Ziv Tubi and many others who contributed and gave feedback
+- Community members who created and contributed to this report: Danielle Menuhin, Gaia Steinberg, Yael Firer, Ziv Dekel and many others who contributed and gave feedback
 
 
 # Report
