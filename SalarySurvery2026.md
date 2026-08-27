@@ -211,3 +211,31 @@ Logic for mapping job responsibilities to role level: for each person, if 30% or
 |            | Medium Startup (41-200 Employees)     | 19,000 - 34,000 | 21,000         |                |
 |            | Small Startup (up to 40 Employees)    | 23,000 - 40,000 | 28,000         |                |
 
+
+
+  ### Year over Year Comparison - 2024-2026
+  As this is the third year we're running the survey similarly, here are 2 comparisons using our overall numbers.
+  Notes: this is only for data points that exist in all 3 surveys. For partial information, feel free to check them out yourself!
+
+
+## Median Salary by Year, Workplace+Experience
+  | Workplace/Experience Combo                  |   2024 |   2025 |   2026 |
+| ------------------------------------------- | -----: | -----: | -----: |
+| Small Startup - 3-5 Years Experience        | 23,000 | 19,250 | 19,750 |
+| Small Startup - 6-9 Years Experience        | 22,000 | 23,000 | 34,000 |
+| Medium Startup - 3-5 Years Experience       | 19,750 | 24,500 | 21,000 |
+| Medium Startup - 6-9 Years Experience       | 25,000 | 22,500 | 19,500 |
+| Big Startup - 3-5 Years Experience          | 19,000 | 21,250 | 18,000 |
+| Enterprise/Corporate - 0-2 Years Experience | 19,000 | 15,000 | 15,500 |
+| Enterprise/Corporate - 3-5 Years Experience | 22,500 | 19,500 | 17,500 |
+| Enterprise/Corporate - 6-9 Years Experience | 26,000 | 27,000 | 32,500 |
+
+  ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2026%20images/median%20salary%20yoy%20workplace%2Bexperience.png)   
+  
+## Avg and Median Salary, Year over Year
+|               |   2024 |   2025 |   2026 |
+| ------------- | -----: | -----: | -----: |
+| Avg Salary    | 20,983 | 22,540 | 25,314 |
+| Median Salary | 20,000 | 21,250 | 23,000 |
+
+  ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2026%20images/avg%20and%20median%20salary%20yoy.png)   
