@@ -50,7 +50,7 @@
 | 10+ Years    | Enterprise/Corporate                  | 20,000 - 45,000 |          36,000 |                |
 
 
-### Some interesting graphs (hopefully)
+### Some interesting graphs 
 ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2026%20images/median_salary_by_experience_2026.png)  
 
 ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2026%20images/median_salary_by_experience_and_workplace_2026.png) 
@@ -213,7 +213,7 @@ Logic for mapping job responsibilities to role level: for each person, if 30% or
 
 
 
-  ### Year over Year Comparison - 2024-2026
+# Year over Year Comparison - 2024-2026
   As this is the third year we're running the survey similarly, here are 2 comparisons using our overall numbers.
   Notes: this is only for data points that exist in all 3 surveys. For partial information, feel free to check them out yourself!
 
