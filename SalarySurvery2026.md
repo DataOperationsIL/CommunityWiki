@@ -16,6 +16,14 @@
 
 
 # Report
+
+Report Sections:
+[Overview](#general-overview)
+[Global Salaries section](#global-salaries)
+[People Management Section](#managers)
+[Role Level Segmentation (Experimental)](#role-level-segmentation-experimental-section)
+[Year over Year Comparison](#year-over-year-comparison---2024-2026)
+
 ## General Overview
     
   This section refers to all data for global salary employees who responded to this survey.
@@ -35,7 +43,8 @@
   ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2026%20images/salary_distribution_histogram_2026.png)    
 
 
-  ### Global Salaries
+  ## Global Salaries
+  This section includes all global salaries we have as a whole, including people managers, individual contributors (a.k.a not people managers), etc. 
 
 | Experience   | Type of Workplace                     | Salary Range    |   Median Value | Comment        |
 |:-------------|:--------------------------------------|:----------------|---------------:|:---------------|
@@ -61,6 +70,7 @@
 
 
 ### Special Knowledge by Experience
+Special knowledge = area of expertise a person had to have before starting the job (examples: medicine, architecture, law, and other subjects that cannot be studied while working).
 
 | Experience   | Salary Range    | Median Value   | Comment            |
 |:-------------|:----------------|:---------------|:-------------------|
@@ -68,6 +78,8 @@
 | 10+ Years    | 30,000 - 45,000 | 34,000         |  |
 
 ### Roles that include Technical Work by Experience & Type of Workplace
+Technical work = roles that include automations, tooling, data scraping and/or synthetic data generation.
+
 | Experience   | Type of Workplace                     | Salary Range    | Median Value   | Comment            |
 |:-------------|:--------------------------------------|:----------------|:---------------|:-------------------|
 | 3-5 Years    | Big Startup (More than 200 Employees) | 12,100 - 28,000 | 18,000         |  |
@@ -76,6 +88,35 @@
 | 6-9 Years    | Enterprise/Corporate                  | 27,000 - 35,000 | 30,000         |  |
 |   | Medium Startup (41-200 Employees)     | 17,000 - 22,000 | 19,500         | <3 respondents     |
 |    | Small Startup (up to 40 Employees)    | 28,000 - 40,000 | 34,000         | <3 respondents     |
+
+### Hands-on Data Work by Experience
+
+| How much of your day-to-day work includes being hands-on with data?   | Experience   | Salary Range    | Median Value   | Comment        |
+|:----------------------------------------------------------------------|:-------------|:----------------|:---------------|:---------------|
+| Less than 20% of my work is hands-on                                  | 3-5 Years    | 19,000 - 28,000 | 21,000         |                |
+|                                  | 6-9 Years    | 21,000 - 40,000 | 28,750         |                |
+|                                   | 10+ Years    | 30,000 - 34,000 | 32,000         | <3 respondents |
+| ~50% of my work in hands-on                                           | 3-5 Years    | 18,000 - 20,000 | 19,000         | <3 respondents |
+|                                           | 6-9 Years    | 28,000 - 35,000 | 31,500         | <3 respondents |
+|                                           | 10+ Years    | 22,000 - 45,000 | 27,000         |                |
+| Most/all of my work is hands-on                                       | 0-2 Years    | 13,000 - 18,000 | 15,500         | <3 respondents |
+|                                        | 3-5 Years    | 10,500 - 23,000 | 16,500         |                |
+|                                        | 6-9 Years    | 17,000 - 30,000 | 27,000         |                |
+|                                       | 10+ Years    | 20,000 - 40,000 | 30,000         | <3 respondents |
+
+### Hands-on Data Work by Workplace
+
+| How much of your day-to-day work includes being hands-on with data?   | Type of Workplace                     | Salary Range    | Median Value   | Comment        |
+|:----------------------------------------------------------------------|:--------------------------------------|:----------------|:---------------|:---------------|
+| Less than 20% of my work is hands-on                                  | Big Startup (More than 200 Employees) | 21,000 - 28,000 | 24,500         | <3 respondents |
+|                                   | Medium Startup (41-200 Employees)     | 19,000 - 34,000 | 21,500         |                |
+| ~50% of my work in hands-on                                           | Enterprise/Corporate                  | 13,000 - 45,000 | 31,000         |                |
+|                                           | Small Startup (up to 40 Employees)    | 22,000 - 28,000 | 25,000         | <3 respondents |
+| Most/all of my work is hands-on                                       | Big Startup (More than 200 Employees) | 12,100 - 40,000 | 13,000         |                |
+|                                        | Enterprise/Corporate                  | 10,500 - 30,000 | 20,000         |                |
+|                                        | Medium Startup (41-200 Employees)     | 17,000 - 21,000 | 19,000         | <3 respondents |
+|                                        | Small Startup (up to 40 Employees)    | 16,500 - 23,000 | 19,750         | <3 respondents |
+
 
 ## Managers
 ### Management Salaries by Experience and Workplace
@@ -107,58 +148,8 @@
 | 10+ Years    | Up to 5 people          | 22,000 - 34,000 |          28,000 | <3 respondents     |
 
 
-
-### Hands-on Data Work by Experience
-
-| How much of your day-to-day work includes being hands-on with data?   | Experience   | Salary Range    | Median Value   | Comment        |
-|:----------------------------------------------------------------------|:-------------|:----------------|:---------------|:---------------|
-| Less than 20% of my work is hands-on                                  | 3-5 Years    | 19,000 - 28,000 | 21,000         |                |
-|                                  | 6-9 Years    | 21,000 - 40,000 | 28,750         |                |
-|                                   | 10+ Years    | 30,000 - 34,000 | 32,000         | <3 respondents |
-| ~50% of my work in hands-on                                           | 3-5 Years    | 18,000 - 20,000 | 19,000         | <3 respondents |
-|                                           | 6-9 Years    | 28,000 - 35,000 | 31,500         | <3 respondents |
-|                                           | 10+ Years    | 22,000 - 45,000 | 27,000         |                |
-| Most/all of my work is hands-on                                       | 0-2 Years    | 13,000 - 18,000 | 15,500         | <3 respondents |
-|                                        | 3-5 Years    | 10,500 - 23,000 | 16,500         |                |
-|                                        | 6-9 Years    | 17,000 - 30,000 | 27,000         |                |
-|                                       | 10+ Years    | 20,000 - 40,000 | 30,000         | <3 respondents |
-
-### Hands-on Data Work by Workplace
-
-| How much of your day-to-day work includes being hands-on with data?   | Type of Workplace                     | Salary Range    | Median Value   | Comment        |
-|:----------------------------------------------------------------------|:--------------------------------------|:----------------|:---------------|:---------------|
-| Less than 20% of my work is hands-on                                  | Big Startup (More than 200 Employees) | 21,000 - 28,000 | 24,500         | <3 respondents |
-|                                   | Medium Startup (41-200 Employees)     | 19,000 - 34,000 | 21,500         |                |
-| ~50% of my work in hands-on                                           | Enterprise/Corporate                  | 13,000 - 45,000 | 31,000         |                |
-|                                           | Small Startup (up to 40 Employees)    | 22,000 - 28,000 | 25,000         | <3 respondents |
-| Most/all of my work is hands-on                                       | Big Startup (More than 200 Employees) | 12,100 - 40,000 | 13,000         |                |
-|                                        | Enterprise/Corporate                  | 10,500 - 30,000 | 20,000         |                |
-|                                        | Medium Startup (41-200 Employees)     | 17,000 - 21,000 | 19,000         | <3 respondents |
-|                                        | Small Startup (up to 40 Employees)    | 16,500 - 23,000 | 19,750         | <3 respondents |
-
-
-
-### Data Operations % by Experience
-
-| What percentage of your work is data operations?   | Experience   | Salary Range    | Median Value   | Comment        |
-|:---------------------------------------------------|:-------------|:----------------|:---------------|:---------------|
-| Most/all of my work is data operations             | 0-2 Years    | 13,000 - 18,000 | 15,500         | <3 respondents |
-|              | 3-5 Years    | 10,500 - 23,000 | 14,300         |                |
-|              | 6-9 Years    | 17,000 - 30,000 | 28,000         |                |
-|              | 10+ Years    | 20,000 - 40,000 | 27,000         |                |
-
-### Data Operations % by Workplace
-
-| What percentage of your work is data operations?   | Type of Workplace                     | Salary Range    | Median Value   | Comment        |
-|:---------------------------------------------------|:--------------------------------------|:----------------|:---------------|:---------------|
-| Most/all of my work is data operations             | Big Startup (More than 200 Employees) | 12,100 - 40,000 | 13,000         |                |
-|              | Enterprise/Corporate                  | 10,500 - 30,000 | 20,000         |                |
-|             | Small Startup (up to 40 Employees)    | 16,500 - 28,000 | 23,000         |                |
-| ~50% of my work is data operations                 | Enterprise/Corporate                  | 13,000 - 27,000 | 20,000         | <3 respondents |
-
-
-
-### Experimental Section - Role Level Segmentation
+## Role Level Segmentation (Experimental Section)
+### To see where your role falls within the categories of this analysis, use [this tool](https://dataoperationsil.github.io/data-ops-role-level-2026/)
 
 In this salary survey questionnaire we added a question asking respondents to list what they do at work, and used that data to sort the roles, using a taxonomy based on the [ISO-8k scheme](https://www.dpadvantage.co.uk/wp-content/uploads/2018/03/DPA-White-Paper-ISO-8000-Part-150-1-1.pdf).
 
@@ -176,7 +167,7 @@ Also, from our experience with smaller organizations in Israel, those category b
 
 Logic for mapping job responsibilities to role level: for each person, if 30% or more of the job responsibilities were mapped to a certain level, it's included in their role level (so for example, a person with 40% tactical job responsibilities, 40% practical job responsibilities, and 20% strategic job responsibilities will be mapped to Practical+Tactical level).
 
-## To find out where you role falls within this survey's logic, use [this tool](https://dataoperationsil.github.io/data-ops-role-level-2026/)
+
 
 | Role Level                   | Salary Range    | Median Value   | Comment   |
 |:-----------------------------|:----------------|:---------------|:----------|
@@ -213,7 +204,7 @@ Logic for mapping job responsibilities to role level: for each person, if 30% or
 
 
 
-# Year over Year Comparison - 2024-2026
+## Year over Year Comparison - 2024-2026
   As this is the third year we're running the survey similarly, here are 2 comparisons using our overall numbers.
   Notes: this is only for data points that exist in all 3 surveys. For partial information, feel free to check them out yourself!
 
