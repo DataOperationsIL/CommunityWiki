@@ -17,7 +17,8 @@
 
 # Report
 
-Report Sections:
+### Report Sections:
+
 [Overview](#general-overview)
 
 [Global Salaries section](#global-salaries)
