@@ -19,10 +19,15 @@
 
 Report Sections:
 [Overview](#general-overview)
+
 [Global Salaries section](#global-salaries)
+
 [People Management Section](#managers)
+
 [Role Level Segmentation (Experimental)](#role-level-segmentation-experimental-section)
+
 [Year over Year Comparison](#year-over-year-comparison---2024-2026)
+
 
 ## General Overview
     
@@ -221,8 +226,9 @@ Logic for mapping job responsibilities to role level: for each person, if 30% or
 | Enterprise/Corporate - 3-5 Years Experience | 22,500 | 19,500 | 17,500 |
 | Enterprise/Corporate - 6-9 Years Experience | 26,000 | 27,000 | 32,500 |
 
-  ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2026%20images/median%20salary%20yoy%20workplace%2Bexperience.png)   
-  
+  ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2026%20images/YOY%20Median%20Salaries%20-%20Small%20%26%20Medium%20Startups.png)   
+    ![](https://github.com/DataOperationsIL/CommunityWiki/blob/main/Images/salarysurvey2026%20images/YOY%20Median%20Salaries%20-%20Big%20Startups%20%2B%20Corporates.png)   
+    
 ## Avg and Median Salary, Year over Year
 |               |   2024 |   2025 |   2026 |
 | ------------- | -----: | -----: | -----: |
