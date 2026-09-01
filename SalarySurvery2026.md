@@ -75,13 +75,7 @@
 
 
 
-### Special Knowledge by Experience
-Special knowledge = area of expertise a person had to have before starting the job (examples: medicine, architecture, law, and other subjects that cannot be studied while working).
 
-| Experience   | Salary Range    | Median Value   | Comment            |
-|:-------------|:----------------|:---------------|:-------------------|
-| 3-5 Years    | 21,000 - 21,000 | 21,000         | <3 respondents     |
-| 10+ Years    | 30,000 - 45,000 | 34,000         |  |
 
 ### Roles that include Technical Work by Experience & Type of Workplace
 Technical work = roles that include automations, tooling, data scraping and/or synthetic data generation.
@@ -153,6 +147,14 @@ Technical work = roles that include automations, tooling, data scraping and/or s
 | 6-9 Years    | Up to 5 people          | 22,000 - 40,000 |          35,250 | Small sample (n=4) |
 | 10+ Years    | Up to 5 people          | 22,000 - 34,000 |          28,000 | <3 respondents     |
 
+### Special Knowledge by Experience
+Special knowledge = area of expertise a person had to have before starting the job (examples: medicine, architecture, law, and other subjects that cannot be studied while working).
+Note for this specific survey: all the data in this table came from people managers, we don't have data for non-people managers with specialized knowledge. 
+
+| Experience   | Salary Range    | Median Value   | Comment            |
+|:-------------|:----------------|:---------------|:-------------------|
+| 3-5 Years    | 21,000 - 21,000 | 21,000         | <3 respondents     |
+| 10+ Years    | 30,000 - 45,000 | 34,000         |  |
 
 ## Role Level Segmentation (Experimental Section)
 ### To see where your role falls within the categories of this analysis, use [this tool](https://dataoperationsil.github.io/data-ops-role-level-2026/)
